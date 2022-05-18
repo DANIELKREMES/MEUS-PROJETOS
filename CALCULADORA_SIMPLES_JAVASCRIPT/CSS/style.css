@@ -1,0 +1,16 @@
+body {
+    background-color: aqua;
+}
+
+h1 {
+    text-align: center;
+    color: #76510d;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: capitalize;
+}
+
+#imgHeader {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
