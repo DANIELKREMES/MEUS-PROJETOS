@@ -1,0 +1,28 @@
+body {
+    background-color: lightblue;
+}
+
+#header {
+    padding: 5px;
+    color: #645801;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+#contador , #mainTitle{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button {
+    color: green;
+    border: 2px solid green;
+}
+
+span {
+    color: #df0000;
+}
